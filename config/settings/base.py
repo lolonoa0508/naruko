@@ -12,7 +12,7 @@ https://docs.djangoproject.com/en/1.11/ref/settings/
 
 import os
 
-NARUKO_REGION = "ap-northeast-1"
+NARUKO_REGION = "ap-northeast-2"
 
 # boto3で考慮すべき時差
 TIME_DIFFERENCE = 9
